@@ -1,0 +1,402 @@
+H
+Element Name: Hydrogen
+Series: Reactive Nonmetals
+Group: 1
+Row: 1
+Atomic Mass(amu): 1.008
+Energy Levels: 1
+Electronegativity: 2.20
+Melting Point(deg C): 14.1
+Boiling Point(deg C): 20.3
+Electron Affinity(kj/mol): 72.8
+First Ion Energy(kj/mol): 1312
+Atomic Radius(pm): 53
+Atomic Number: 1
+
+He
+Element Name: Helium
+Series: Noble Gases
+Group: 1
+Row: 18
+Atomic Mass(amu): 4.0026
+Energy Levels: 2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): -269
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 2372.3
+Atomic Radius(pm): 31
+Atomic Number: 2
+
+Li
+element_name
+Lithium
+# Location on periodic table
+series
+Alkali Metals
+group
+1
+row
+2
+# Properties
+atomic_weight
+6.94
+energy_levels
+2,1
+electro_neg
+0.98
+melt_point
+180.54
+boil_point
+1342
+elec_affinity
+59.6
+first_ion_energy
+520.2
+atom_radius
+167
+atom_number
+3
+
+element_symbol
+Be
+element_name
+Beryllium
+# Location on periodic table
+series
+Alkaline Earth Metals
+group
+2
+row
+2
+# Properties
+atomic_weight
+9.0122
+energy_level
+2,2
+electro_neg
+1.57
+melt_point
+1287
+boil_point
+2470
+elec_affinity
+0
+first_ion_energy
+899.5
+atom_radius
+112
+atom_number
+4
+
+element_symbol
+B
+element_name
+Boron
+# Location on periodic table
+series
+Alkaline Earth Metals
+group
+13
+row
+2
+# Properties
+atomic_weight
+10.81
+energy_levels
+2,3
+electro_neg
+2.04
+melt_point
+2075
+boil_point
+4000
+elec_affinity
+26.7
+first_ion_energy
+800.6
+atom_radius
+87
+atom_number
+5
+
+element_symbol
+C
+element_name
+Carbon
+# Location on periodic table
+series
+Reactive Nonmetals
+group
+14
+row
+2
+# Properties
+atomic_weight
+12.011
+energy_levels
+2,4
+electro_neg
+2.55
+melt_point
+3642
+boil_point
+3642
+elec_affinity
+153.9
+first_ion_energy
+1086.5
+atom_radius
+67
+atom_number
+6
+
+element_symbol
+Nitrogen
+element_name
+N
+# Location on periodic table
+series
+Reactive Nonmetals
+group
+15
+row
+2
+# Properties
+atomic_weight
+14.007
+energy_levels
+2,5
+electro_neg
+3.04
+melt_point
+-210.1
+boil_point
+-195.8
+elec_affinity
+7
+first_ion_energy
+1402.3
+atom_radius
+56
+atom_number
+7
+
+element_symbol
+O
+element_name
+Oxygen
+# Location on periodic table
+series
+Reactive Nonmetals
+group
+16
+row
+2
+# Properties
+atomic_weight
+15.999
+energy_levels
+2,6
+electro_neg
+3.44
+melt_point
+-218
+boil_point
+-183
+elec_affinity
+141
+first_ion_energy
+1313.9
+atom_radius
+48
+atom_number
+8
+
+element_symbol
+F
+element_name
+Fluorine
+# Location on periodic table
+series
+Reactive Nonmetals
+group
+17
+row
+2
+# Properties
+atomic_weight
+18.998
+energy_levels
+2,7
+electro_neg
+3.98
+melt_point
+-220
+boil_point
+-188.1
+elec_affinity
+328
+first_ion_energy
+1681.0
+atom_radius
+42
+atom_number
+9
+
+element_symbol
+Ne
+element_name
+Neon
+# Location on periodic table
+series
+Noble Gases
+group
+18
+row
+2
+# Properties
+atomic_weight
+20.180
+energy_levels
+2,8
+electro_neg
+N/A
+melt_point
+-248.6
+boil_point
+-246.1
+elec_affinity
+0
+first_ion_energy
+2080.7
+atom_radius
+38
+atom_number
+10
+
+element_symbol
+Na
+element_name
+Sodium
+# Location on periodic table
+series
+Alkali Metals
+group
+1
+row
+3
+# Properties
+atomic_weight
+22.990
+energy_levels
+2,8,1
+electro_neg
+0.93
+melt_point
+97.720
+boil_point
+882.9
+elec_affinity
+52.8
+first_ion_energy
+495.8
+atom_radius
+190
+atom_number
+11
+
+element_symbol
+Mg
+element_name
+Magnesium
+# Location on periodic table
+series
+Alkaline Earth Metals
+group
+2
+row
+3
+# Properties
+atomic_weight
+24.305
+energy_levels
+2,8,2
+electro_neg
+1.31
+melt_point
+650
+boil_point
+1090
+elec_affinity
+0
+first_ion_energy
+737.7
+atom_radius
+145
+atom_number
+12
+
+element_symbol
+Al
+element_name
+Aluminum
+# Location on periodic table
+series
+Post-transition Metals
+group
+13
+row
+3
+# Properties
+atomic_weight
+26.982
+energy_levels
+2,8,3
+electro_neg
+1.61
+melt_point
+660.32
+boil_point
+2519
+elec_affinity
+42.5
+first_ion_energy
+577.5
+atom_radius
+118
+atom_number
+13
+
+element_symbol
+Si
+element_name
+Silicon
+# Location on periodic table
+series
+Metalloids
+group
+14
+row
+3
+# Properties
+atomic_weight
+28.085
+energy_levels
+2,8,4
+electro_neg
+1.90
+melt_point
+1414
+boil_point
+2900
+elec_affinity
+133.6
+first_ion_energy
+786.5
+atom_radius
+111
+atom_number
+14
+
+@
