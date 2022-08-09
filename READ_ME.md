@@ -1,7 +1,9 @@
 MIT Open License, 2022
 
 Creator: Liam Chiasson, Github: @liamchiasson
-# CHEM ELEMENT LOOKUP (CLI For Bash)
+
+Periodic Table Source: https://ptable.com/?lang=en#Properties
+# CHEM ELEMENT LOOKUP: v0.1 (CLI For Bash)
 
 # Installation Instructions
 (1) Put CEL in your ~ folder
@@ -26,7 +28,7 @@ cel-cli
 - Print list of all elements in a group
 
         
-# PROGRAM COMMANDS (Replace Au with any chemical element's symbol):
+# Program Commands (Replace Au with any element's symbol):
        ---------------------------------------------------------------------------------------
         Au = print out all below properties of Gold
 
@@ -89,4 +91,21 @@ First Ion Energy(kj/mol):
 
 Atomic Radius(pm): 
 
+Atomic Number: 
+
+
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
 Atomic Number: 

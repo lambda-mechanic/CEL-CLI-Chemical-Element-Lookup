@@ -1246,6 +1246,36 @@ Atomic Number: 83
 Po
 Element Name: Polonium
 Series: Post-transituon metals
+Group: 16
+Row: 6
+Atomic Mass(amu): 209
+Energy Levels: 2,8,18,32,18,6
+Electronegativity: 2.0
+Melting Point(deg C): 255
+Boiling Point(deg C): 961.9
+Electron Affinity(kj/mol): 183.3
+First Ion Energy(kj/mol): 812.1
+Atomic Radius(pm): 135
+Atomic Number: 84
+
+At
+Element Name: Astatine
+Series: Metalloids
+Group: 17
+Row: 6
+Atomic Mass(amu): 210
+Energy Levels: 2,8,18,32,18,7
+Electronegativity: 2.2
+Melting Point(deg C): 302
+Boiling Point(deg C): 350
+Electron Affinity(kj/mol): 270.1
+First Ion Energy(kj/mol): 890
+Atomic Radius(pm): 127
+Atomic Number: 85
+
+Element Symbol
+Element Name: 
+Series: 
 Group: 
 Row: 
 Atomic Mass(amu): 
@@ -1258,4 +1288,513 @@ First Ion Energy(kj/mol):
 Atomic Radius(pm): 
 Atomic Number: 
 
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
+
+Element Symbol
+Element Name: 
+Series: 
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
 @
