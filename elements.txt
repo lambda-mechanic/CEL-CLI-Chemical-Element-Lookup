@@ -1273,528 +1273,499 @@ First Ion Energy(kj/mol): 890
 Atomic Radius(pm): 127
 Atomic Number: 85
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Rn
+Element Name: Radon
+Series: Noble gases
+Group: 18
+Row: 6
+Atomic Mass(amu): 222
+Energy Levels: 2,8,18,32,18,8
+Electronegativity: N/A
+Melting Point(deg C): -71.1
+Boiling Point(deg C): -61.85
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 1037
+Atomic Radius(pm): 120
+Atomic Number: 86
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Fr
+Element Name: Francium
+Series: Alkali Metals
+Group: 1
+Row: 7
+Atomic Mass(amu): 223
+Energy Levels: 2,8,18,32,18,8,1
+Electronegativity: 0.7
+Melting Point(deg C): 20.9
+Boiling Point(deg C): 650
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 380
+Atomic Radius(pm): N/A
+Atomic Number: 87
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Ra
+Element Name: Radium
+Series: Alkaline Earth Metals
+Group: 2
+Row: 7
+Atomic Mass(amu): 226
+Energy Levels: 2,8,18,32,18,8,2
+Electronegativity: 0.9
+Melting Point(deg C): 700
+Boiling Point(deg C): 1737
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 509.3
+Atomic Radius(pm): N/A
+Atomic Number: 88
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Ac
+Element Name: Actinium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 227
+Energy Levels: 2,8,18,32,18,9,2
+Electronegativity: 1.1
+Melting Point(deg C): 1050
+Boiling Point(deg C): 3200
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 499
+Atomic Radius(pm): N/A
+Atomic Number: 89
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Th
+Element Name: Thorium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 232.04
+Energy Levels: 2,8,18,32,18,10,2
+Electronegativity: 1.3
+Melting Point(deg C): 1750
+Boiling Point(deg C): 4820
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 587
+Atomic Radius(pm): N/A
+Atomic Number: 90
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Pa
+Element Name: Proactinium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 231.04
+Energy Levels: 2,8,18,32,20,9,2
+Electronegativity: 1.5
+Melting Point(deg C): 1572
+Boiling Point(deg C): 4000
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 568
+Atomic Radius(pm): N/A
+Atomic Number: 91
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+U
+Element Name: Uranium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 238.03
+Energy Levels: 2,8,18,32,21,9,2
+Electronegativity: 1.38
+Melting Point(deg C): 1135
+Boiling Point(deg C): 3900
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 597.6
+Atomic Radius(pm): N/A
+Atomic Number: 92
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Np
+Element Name: Neptunium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 237
+Energy Levels: 2,8,18,32,22,9,2
+Electronegativity: 1.36
+Melting Point(deg C): 644
+Boiling Point(deg C): 4000
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 604.5
+Atomic Radius(pm): N/A
+Atomic Number: 93
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Pu
+Element Name: Plutonium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 244
+Energy Levels: 2,8,18,32,24,8,2
+Electronegativity: 1.28
+Melting Point(deg C): 640
+Boiling Point(deg C): 3230
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 584.7
+Atomic Radius(pm): N/A
+Atomic Number: 94
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Am
+Element Name: Americium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 243
+Energy Levels: 2,8,18,32,25,8,2
+Electronegativity: 1.3
+Melting Point(deg C): 1176
+Boiling Point(deg C): 2011
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 578
+Atomic Radius(pm): N/A
+Atomic Number: 95
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Cm
+Element Name: Curium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 247
+Energy Levels: 2,8,18,32,25,9,2
+Electronegativity: 1.3
+Melting Point(deg C): 1345
+Boiling Point(deg C): 3110
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 581
+Atomic Radius(pm): 247
+Atomic Number: 96
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Bk
+Element Name: Berkelium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 247
+Energy Levels: 2,8,18,32,27,8,2
+Electronegativity: 1.3
+Melting Point(deg C): 1050
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 601
+Atomic Radius(pm): N/A
+Atomic Number: 97
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Cf
+Element Name: Californium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 251
+Energy Levels: 2,8,18,32,28,8,2
+Electronegativity: 1.3
+Melting Point(deg C): 899.9
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 608
+Atomic Radius(pm): N/A
+Atomic Number: 98
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Es
+Element Name: Einsteinium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 252
+Energy Levels: 2,8,18,32,29,8,2
+Electronegativity: 1.3
+Melting Point(deg C): 859.9
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 619
+Atomic Radius(pm): N/A
+Atomic Number: 99
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Fm
+Element Name: Fermium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 257
+Energy Levels: 2,8,18,32,30,8,2
+Electronegativity: 1.3
+Melting Point(deg C): 1500
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 627
+Atomic Radius(pm): N/A
+Atomic Number: 100
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Md
+Element Name: Mendelevium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 258
+Energy Levels: 2,8,18,32,31,8,2
+Electronegativity: 1.3
+Melting Point(deg C): 830
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 635
+Atomic Radius(pm): N/A
+Atomic Number: 101
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+No
+Element Name: Nobelium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 259
+Energy Levels: 2,8,18,32,32,8,2
+Electronegativity: 1.3
+Melting Point(deg C): 830
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 642
+Atomic Radius(pm): N/A
+Atomic Number: 102
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Lr
+Element Name: Lawrencium
+Series: Actinoids
+Group: 3
+Row: 7
+Atomic Mass(amu): 266
+Energy Levels: 2,8,18,32,32,8,3
+Electronegativity: N/A
+Melting Point(deg C): 1600
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 470
+Atomic Radius(pm): N/A
+Atomic Number: 103
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Rf
+Element Name: Rutherfordium
+Series: Transition Metals
+Group: 4
+Row: 7
+Atomic Mass(amu): 267
+Energy Levels: 2,8,18,32,32,10,2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): 580
+Atomic Radius(pm): N/A
+Atomic Number: 104
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Db
+Element Name: Dubnium
+Series: Transition Metals
+Group: 5
+Row: 7
+Atomic Mass(amu): 268
+Energy Levels: 2,8,18,32,32,11,2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 105
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Sg
+Element Name: Seaborgium
+Series: Transition Metals
+Group: 6
+Row: 7
+Atomic Mass(amu): 269
+Energy Levels: 2,8,18,32,32,12,2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 106
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Bh
+Element Name: Bhorium
+Series: Transition Metals
+Group: 7
+Row: 7
+Atomic Mass(amu): 270
+Energy Levels: 2,8,18,32,32,13,2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 107
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Hs
+Element Name: Hassium
+Series: Transition Metals
+Group: 8
+Row: 7
+Atomic Mass(amu): 277
+Energy Levels: 2,8,18,32,32,14,2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 108
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Mt
+Element Name: Meitnerium
+Series: N/A
+Group: 9 
+Row: 7
+Atomic Mass(amu): 278
+Energy Levels: 2,8,18,32,32,15,2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 109
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Ds
+Element Name: Darmstadtium
+Series: N/A
+Group: 10
+Row: 7
+Atomic Mass(amu): 281
+Energy Levels: 2,8,18,32,32,17,1
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 110
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Rg
+Element Name: Roentgenium
+Series: N/A
+Group: 11
+Row: 7
+Atomic Mass(amu): 282
+Energy Levels: 2,8,18,32,32,17,2
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 111
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Co
+Element Name: Copernicium
+Series: N/A
+Group: 12
+Row: 7
+Atomic Mass(amu): 285
+Energy Levels: N/A
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 112
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Nh
+Element Name: Nihonium
+Series: N/A
+Group: 13
+Row: 7
+Atomic Mass(amu): 286
+Energy Levels: 2,8,18,32,32,18,3
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 113
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Fl
+Element Name: Flerovium
+Series: N/A
+Group: 14
+Row: 7
+Atomic Mass(amu): 289
+Energy Levels: 2,8,18,32,32,18,4
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 114
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Mc
+Element Name: Moscovium
+Series: N/A
+Group: 15
+Row: 7
+Atomic Mass(amu): 290
+Energy Levels: 2,8,18,32,32,18,5
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 115
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Lv
+Element Name: Livermorium
+Series: N/A
+Group: 16
+Row: 7
+Atomic Mass(amu): 293
+Energy Levels: 2,8,18,32,32,18,6
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 116
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Ts
+Element Name: Tennessine
+Series: N/A
+Group: 17
+Row: 7
+Atomic Mass(amu): 294
+Energy Levels: 2,8,18,32,32,18,7
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 117
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
+Og
+Element Name: Oganesson
+Series: N/A
+Group: 18
+Row: 7
+Atomic Mass(amu): 294
+Energy Levels: 2,8,18,32,32,18,8
+Electronegativity: N/A
+Melting Point(deg C): N/A
+Boiling Point(deg C): N/A
+Electron Affinity(kj/mol): N/A
+First Ion Energy(kj/mol): N/A
+Atomic Radius(pm): N/A
+Atomic Number: 118
 
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
-
-Element Symbol
-Element Name: 
-Series: 
-Group: 
-Row: 
-Atomic Mass(amu): 
-Energy Levels: 
-Electronegativity: 
-Melting Point(deg C): 
-Boiling Point(deg C): 
-Electron Affinity(kj/mol): 
-First Ion Energy(kj/mol): 
-Atomic Radius(pm): 
-Atomic Number: 
 @
