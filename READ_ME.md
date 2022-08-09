@@ -3,6 +3,7 @@ DESCRIPTION: Allows users to reference the chemical elements and their propertie
 
 # Installation Instructions
 (1) Put CEL in your ~ folder
+
 (2) Find your .bashrc file (or .zshrc if you use zshell). It may be in your ~/usr/bin/ or in your /home/usr/ or elsewhere
 (3) Add a source by pasting this line somewhere in the document where you can easily locate it: source ~/CEL/.cel-cli-bash.sh
 (4) Save the .bashrc or .zshrc file. This line of code makes it so that the content of the cel-cli-bash.sh file is run every time you open your terminal
