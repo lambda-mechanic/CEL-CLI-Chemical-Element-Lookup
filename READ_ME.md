@@ -1,11 +1,15 @@
-PROJECT: Chemistry Element Lookup (CEL)
-DESCRIPTION: Allows users to reference the chemical elements and their properties from a linux terminal
+MIT Open License, 2022
+
+Creator: Liam Chiasson, Github: @liamchiasson
+# CHEM ELEMENT LOOKUP (CLI For Bash)
 
 # Installation Instructions
 (1) Put CEL in your ~ folder
 
 (2) Find your .bashrc file (or .zshrc if you use zshell). It may be in your ~/usr/bin/ or in your /home/usr/ or elsewhere
+
 (3) Add a source by pasting this line somewhere in the document where you can easily locate it: source ~/CEL/.cel-cli-bash.sh
+
 (4) Save the .bashrc or .zshrc file. This line of code makes it so that the content of the cel-cli-bash.sh file is run every time you open your terminal
 
 # How to Start the Program
@@ -60,16 +64,29 @@ cel-cli
 
 # TEMPLATE FOR ELEMENTS:
 Element Symbol
+
 Element Name: 
+
 Series: 
+
 Group: 
+
 Row: 
+
 Atomic Mass(amu): 
+
 Energy Levels: 
+
 Electronegativity: 
+
 Melting Point(deg C): 
+
 Boiling Point(deg C): 
+
 Electron Affinity(kj/mol): 
+
 First Ion Energy(kj/mol): 
+
 Atomic Radius(pm): 
+
 Atomic Number: 
