@@ -29,374 +29,1233 @@ Atomic Radius(pm): 31
 Atomic Number: 2
 
 Li
-element_name
-Lithium
-# Location on periodic table
-series
-Alkali Metals
-group
-1
-row
-2
-# Properties
-atomic_weight
-6.94
-energy_levels
-2,1
-electro_neg
-0.98
-melt_point
-180.54
-boil_point
-1342
-elec_affinity
-59.6
-first_ion_energy
-520.2
-atom_radius
-167
-atom_number
-3
+Element Name: Lithium
+Series: Alkali Metals
+Group: 1
+Row: 2
+Atomic Mass(amu): 6.94
+Energy Levels: 2,1
+Electronegativity: 0.98
+Melting Point(deg C): 180.54
+Boiling Point(deg C): 1342
+Electron Affinity(kj/mol): 59.6
+First Ion Energy(kj/mol): 520.2
+Atomic Radius(pm): 167
+Atomic Number: 3
 
-element_symbol
 Be
-element_name
-Beryllium
-# Location on periodic table
-series
-Alkaline Earth Metals
-group
-2
-row
-2
-# Properties
-atomic_weight
-9.0122
-energy_level
-2,2
-electro_neg
-1.57
-melt_point
-1287
-boil_point
-2470
-elec_affinity
-0
-first_ion_energy
-899.5
-atom_radius
-112
-atom_number
-4
+Element Name: Beryllium
+Series: Alkaline Earth Metals
+Group: 2
+Row: 2
+Atomic Mass(amu): 9.0122
+Energy Levels: 2,2
+Electronegativity: 1.57
+Melting Point(deg C): 1287
+Boiling Point(deg C): 2470
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 899.5
+Atomic Radius(pm): 112
+Atomic Number: 4
 
-element_symbol
 B
-element_name
-Boron
-# Location on periodic table
-series
-Alkaline Earth Metals
-group
-13
-row
-2
-# Properties
-atomic_weight
-10.81
-energy_levels
-2,3
-electro_neg
-2.04
-melt_point
-2075
-boil_point
-4000
-elec_affinity
-26.7
-first_ion_energy
-800.6
-atom_radius
-87
-atom_number
-5
+Element Name: Boron
+Series: Alkaline Earth Metals
+Group: 13
+Row: 2
+Atomic Mass(amu): 10.81
+Energy Levels: 2,3
+Electronegativity: 2.04
+Melting Point(deg C): 2075
+Boiling Point(deg C): 4000
+Electron Affinity(kj/mol): 26.7
+First Ion Energy(kj/mol): 800.6
+Atomic Radius(pm): 87
+Atomic Number: 5
 
-element_symbol
 C
-element_name
-Carbon
-# Location on periodic table
-series
-Reactive Nonmetals
-group
-14
-row
-2
-# Properties
-atomic_weight
-12.011
-energy_levels
-2,4
-electro_neg
-2.55
-melt_point
-3642
-boil_point
-3642
-elec_affinity
-153.9
-first_ion_energy
-1086.5
-atom_radius
-67
-atom_number
-6
+Element Name: Carbon
+Series: Reactive Nonmetals
+Group: 14
+Row: 2
+Atomic Mass(amu): 12.011 
+Energy Levels: 2,4
+Electronegativity: 2.55
+Melting Point(deg C): 3642
+Boiling Point(deg C): 3642
+Electron Affinity(kj/mol): 153.9
+First Ion Energy(kj/mol): 1086.5
+Atomic Radius(pm): 67
+Atomic Number: 6
 
-element_symbol
-Nitrogen
-element_name
 N
-# Location on periodic table
-series
-Reactive Nonmetals
-group
-15
-row
-2
-# Properties
-atomic_weight
-14.007
-energy_levels
-2,5
-electro_neg
-3.04
-melt_point
--210.1
-boil_point
--195.8
-elec_affinity
-7
-first_ion_energy
-1402.3
-atom_radius
-56
-atom_number
-7
+Element Name: Nitrogen
+Series: Reactive Nonmetals
+Group: 15
+Row: 2
+Atomic Mass(amu): 14.007
+Energy Levels: 2,5
+Electronegativity: 3.04
+Melting Point(deg C): -210.1
+Boiling Point(deg C): -195.8
+Electron Affinity(kj/mol): 7
+First Ion Energy(kj/mol): 1402.3
+Atomic Radius(pm): 56
+Atomic Number: 7
 
-element_symbol
 O
-element_name
-Oxygen
-# Location on periodic table
-series
-Reactive Nonmetals
-group
-16
-row
-2
-# Properties
-atomic_weight
-15.999
-energy_levels
-2,6
-electro_neg
-3.44
-melt_point
--218
-boil_point
--183
-elec_affinity
-141
-first_ion_energy
-1313.9
-atom_radius
-48
-atom_number
-8
+Element Name: Oxygen
+Series: Reactive Nonmetals
+Group: 16
+Row: 2
+Atomic Mass(amu): 15.999
+Energy Levels: 2,6
+Electronegativity: 3.44
+Melting Point(deg C): -218
+Boiling Point(deg C): -183
+Electron Affinity(kj/mol): 141
+First Ion Energy(kj/mol): 1313.9
+Atomic Radius(pm): 48
+Atomic Number: 8
 
-element_symbol
 F
-element_name
-Fluorine
-# Location on periodic table
-series
-Reactive Nonmetals
-group
-17
-row
-2
-# Properties
-atomic_weight
-18.998
-energy_levels
-2,7
-electro_neg
-3.98
-melt_point
--220
-boil_point
--188.1
-elec_affinity
-328
-first_ion_energy
-1681.0
-atom_radius
-42
-atom_number
-9
+Element Name: Fluroine
+Series: Reactive Nonmetals
+Group: 17
+Row: 2
+Atomic Mass(amu): 18.998
+Energy Levels: 2,7
+Electronegativity: 3.98
+Melting Point(deg C): -220
+Boiling Point(deg C): -188.1
+Electron Affinity(kj/mol): 328
+First Ion Energy(kj/mol): 1681.0
+Atomic Radius(pm): 42
+Atomic Number: 9
 
-element_symbol
 Ne
-element_name
-Neon
-# Location on periodic table
-series
-Noble Gases
-group
-18
-row
-2
-# Properties
-atomic_weight
-20.180
-energy_levels
-2,8
-electro_neg
-N/A
-melt_point
--248.6
-boil_point
--246.1
-elec_affinity
-0
-first_ion_energy
-2080.7
-atom_radius
-38
-atom_number
-10
+Element Name: Neon
+Series: Noble Gases
+Group: 18
+Row: 2
+Atomic Mass(amu): 20.180
+Energy Levels: 2,8
+Electronegativity: N/A
+Melting Point(deg C): -248.6
+Boiling Point(deg C): -246.1
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 2080.7
+Atomic Radius(pm): 38
+Atomic Number: 10
 
-element_symbol
 Na
-element_name
-Sodium
-# Location on periodic table
-series
-Alkali Metals
-group
-1
-row
-3
-# Properties
-atomic_weight
-22.990
-energy_levels
-2,8,1
-electro_neg
-0.93
-melt_point
-97.720
-boil_point
-882.9
-elec_affinity
-52.8
-first_ion_energy
-495.8
-atom_radius
-190
-atom_number
-11
+Element Name: Sodium
+Series: Alkali Metals
+Group: 1
+Row: 3
+Atomic Mass(amu): 22.990
+Energy Levels: 2,8,1
+Electronegativity: 0.93
+Melting Point(deg C): 97.720
+Boiling Point(deg C): 882.9
+Electron Affinity(kj/mol): 52.8
+First Ion Energy(kj/mol): 495.8
+Atomic Radius(pm): 190
+Atomic Number: 11
 
-element_symbol
 Mg
-element_name
-Magnesium
-# Location on periodic table
-series
-Alkaline Earth Metals
-group
-2
-row
-3
-# Properties
-atomic_weight
-24.305
-energy_levels
-2,8,2
-electro_neg
-1.31
-melt_point
-650
-boil_point
-1090
-elec_affinity
-0
-first_ion_energy
-737.7
-atom_radius
-145
-atom_number
-12
+Element Name: Magnesium
+Series: Alkaline Earth Metals
+Group: 2
+Row: 3
+Atomic Mass(amu): 24.305
+Energy Levels: 2,8,2
+Electronegativity: 1.31
+Melting Point(deg C): 650
+Boiling Point(deg C): 1090
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 737.7
+Atomic Radius(pm): 145
+Atomic Number: 12
 
-element_symbol
 Al
-element_name
-Aluminum
-# Location on periodic table
-series
-Post-transition Metals
-group
-13
-row
-3
-# Properties
-atomic_weight
-26.982
-energy_levels
-2,8,3
-electro_neg
-1.61
-melt_point
-660.32
-boil_point
-2519
-elec_affinity
-42.5
-first_ion_energy
-577.5
-atom_radius
-118
-atom_number
-13
+Element Name: Aluminum
+Series: Post-transition Metals
+Group: 13
+Row: 3
+Atomic Mass(amu): 26.982
+Energy Levels: 2,8,3
+Electronegativity: 1.61
+Melting Point(deg C): 660.32
+Boiling Point(deg C): 2519
+Electron Affinity(kj/mol): 42.5
+First Ion Energy(kj/mol): 577.5
+Atomic Radius(pm): 118
+Atomic Number: 13
 
-element_symbol
 Si
-element_name
-Silicon
-# Location on periodic table
-series
-Metalloids
-group
-14
-row
-3
-# Properties
-atomic_weight
-28.085
-energy_levels
-2,8,4
-electro_neg
-1.90
-melt_point
-1414
-boil_point
-2900
-elec_affinity
-133.6
-first_ion_energy
-786.5
-atom_radius
-111
-atom_number
-14
+Element Name: Silicon
+Series: Metalloids
+Group: 14
+Row: 3
+Atomic Mass(amu): 28.085
+Energy Levels: 2,8,4
+Electronegativity: 1.90
+Melting Point(deg C): 1414
+Boiling Point(deg C): 2900
+Electron Affinity(kj/mol): 133.6
+First Ion Energy(kj/mol): 786.5
+Atomic Radius(pm): 111
+Atomic Number: 14
+
+P
+Element Name: Phosphorus
+Series: Reactive Nonmetals
+Group: 15
+Row: 3
+Atomic Mass(amu): 30.973
+Energy Levels: 2,8,5
+Electronegativity: 2.19
+Melting Point(deg C): 44.15
+Boiling Point(deg C): 280.5
+Electron Affinity(kj/mol): 72
+First Ion Energy(kj/mol): 1011.8
+Atomic Radius(pm): 98
+Atomic Number: 15
+
+S
+Element Name: Sulfur
+Series: Reactive Nonmetals
+Group: 16
+Row: 3
+Atomic Mass(amu): 32.06
+Energy Levels: 2,8,6
+Electronegativity: 2.58
+Melting Point(deg C): 115.21
+Boiling Point(deg C): 444.72
+Electron Affinity(kj/mol): 200
+First Ion Energy(kj/mol): 999.6
+Atomic Radius(pm): 88
+Atomic Number: 16
+
+Cl
+Element Name: Chlorine
+Series: Reactive Nonmetals
+Group: 17
+Row: 3
+Atomic Mass(amu): 35.45
+Energy Levels: 2,8,7
+Electronegativity: 3.16
+Melting Point(deg C): -101.5
+Boiling Point(deg C): -34.040
+Electron Affinity(kj/mol): 349
+First Ion Energy(kj/mol): 1251.2
+Atomic Radius(pm): 79
+Atomic Number: 17
+
+Ar
+Element Name: Argon
+Series: Noble Gases
+Group: 18
+Row: 3
+Atomic Mass(amu): 39.948
+Energy Levels: 2,8,8
+Electronegativity: N/A
+Melting Point(deg C): -189
+Boiling Point(deg C): -186
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 1520.6
+Atomic Radius(pm): 71
+Atomic Number: 18
+
+K
+Element Name: Potassium
+Series: Alkali Metals
+Group: 1
+Row: 4
+Atomic Mass(amu): 39.098
+Energy Levels: 2,8,8,1
+Electronegativity: 0.82
+Melting Point(deg C): 63.380
+Boiling Point(deg C): 758.9
+Electron Affinity(kj/mol): 48.4
+First Ion Energy(kj/mol): 418.8
+Atomic Radius(pm): 243
+Atomic Number: 19
+
+Ca
+Element Name: Calcium
+Series: Alkaline Earth Metals
+Group: 2
+Row: 4
+Atomic Mass(amu): 40.078
+Energy Levels: 2,8,8,2
+Electronegativity: 1.0
+Melting Point(deg C): 841.9
+Boiling Point(deg C): 1484
+Electron Affinity(kj/mol): 2.37
+First Ion Energy(kj/mol): 589.8
+Atomic Radius(pm): 194
+Atomic Number: 20
+
+Sc
+Element Name: Scandium
+Series: Transition metals
+Group: 3
+Row: 4
+Atomic Mass(amu): 44.956
+Energy Levels: 2,8,9,2
+Electronegativity: 1.36
+Melting Point(deg C): 1541
+Boiling Point(deg C): 2830
+Electron Affinity(kj/mol): 18.1
+First Ion Energy(kj/mol): 633.1
+Atomic Radius(pm): 184
+Atomic Number: 21
+
+Ti
+Element Name: Titanium
+Series: Transition metals
+Group: 4
+Row: 4
+Atomic Mass(amu): 47.867
+Energy Levels: 2,8,10,2
+Electronegativity: 1.54
+Melting Point(deg C): 1668
+Boiling Point(deg C): 3287
+Electron Affinity(kj/mol): 7.6
+First Ion Energy(kj/mol): 658.8
+Atomic Radius(pm): 176
+Atomic Number: 22
+
+V
+Element Name: Vanadium
+Series: Transition metals
+Group: 5
+Row: 4
+Atomic Mass(amu): 50.942
+Energy Levels: 2,8,11,2
+Electronegativity: 1.63
+Melting Point(deg C): 1910
+Boiling Point(deg C): 3407
+Electron Affinity(kj/mol): 50.6
+First Ion Energy(kj/mol): 650.9
+Atomic Radius(pm): 171
+Atomic Number: 23
+
+Cr
+Element Name: Chromium
+Series: Transition metals
+Group: 6
+Row: 4
+Atomic Mass(amu): 51.996
+Energy Levels: 2,8,13,1
+Electronegativity: 1.66
+Melting Point(deg C): 1907
+Boiling Point(deg C): 2671
+Electron Affinity(kj/mol): 64.3
+First Ion Energy(kj/mol): 652.9
+Atomic Radius(pm): 166
+Atomic Number: 24
+
+Mn
+Element Name: Manganese
+Series: Transition metals
+Group: 7
+Row: 4
+Atomic Mass(amu): 54.938
+Energy Levels: 2,8,13,2
+Electronegativity: 1.55
+Melting Point(deg C): 1246
+Boiling Point(deg C): 2061
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 717.3
+Atomic Radius(pm): 161
+Atomic Number: 25
+
+Fe
+Element Name: Iron
+Series: Transition metals
+Group: 8
+Row: 4
+Atomic Mass(amu): 55.845
+Energy Levels: 2,8,14,2
+Electronegativity: 1.83
+Melting Point(deg C): 1538
+Boiling Point(deg C): 2861
+Electron Affinity(kj/mol): 15.7
+First Ion Energy(kj/mol): 762.5
+Atomic Radius(pm): 156
+Atomic Number: 26
+
+Co
+Element Name: Cobalt
+Series: Transition metals
+Group: 9
+Row: 4
+Atomic Mass(amu): 58.933
+Energy Levels: 2,8,15,2
+Electronegativity: 1.88
+Melting Point(deg C): 1495
+Boiling Point(deg C): 2900
+Electron Affinity(kj/mol): 1.88
+First Ion Energy(kj/mol): 760.4
+Atomic Radius(pm): 152
+Atomic Number: 27
+
+Ni
+Element Name: Nickel
+Series: Transition metals
+Group: 10
+Row: 4
+Atomic Mass(amu): 58.693
+Energy Levels: 2,8,16,2
+Electronegativity: 1.91
+Melting Point(deg C): 1455
+Boiling Point(deg C): 2913
+Electron Affinity(kj/mol): 1.91
+First Ion Energy(kj/mol): 737.1
+Atomic Radius(pm): 149
+Atomic Number: 28
+
+Cu
+Element Name: Copper
+Series: Transition metals
+Group: 11
+Row: 4
+Atomic Mass(amu): 63.546
+Energy Levels: 2,8,18,1
+Electronegativity: 1.90
+Melting Point(deg C): 1084.62
+Boiling Point(deg C): 2562
+Electron Affinity(kj/mol): 118.4
+First Ion Energy(kj/mol): 745.5
+Atomic Radius(pm): 145
+Atomic Number: 29
+
+Zn
+Element Name: Zinc
+Series: Transition metals
+Group: 12
+Row: 4
+Atomic Mass(amu): 65.38
+Energy Levels: 2,8,18,2
+Electronegativity: 1.65
+Melting Point(deg C): 419.53
+Boiling Point(deg C): 906.9
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 906.4
+Atomic Radius(pm): 142
+Atomic Number: 30
+
+Ga
+Element Name: Gallium
+Series: Post-transition metals
+Group: 13
+Row: 4
+Atomic Mass(amu): 69.723
+Energy Levels: 2,8,18,3
+Electronegativity: 1.81
+Melting Point(deg C): 29.760
+Boiling Point(deg C): 2204
+Electron Affinity(kj/mol): 28.9
+First Ion Energy(kj/mol): 578.8
+Atomic Radius(pm): 136
+Atomic Number: 31
+
+Ge
+Element Name: Germanium
+Series: Metalloids
+Group: 14
+Row: 4
+Atomic Mass(amu): 72.630
+Energy Levels: 2,8,18,4
+Electronegativity: 2.01
+Melting Point(deg C): 938.25
+Boiling Point(deg C): 2820
+Electron Affinity(kj/mol): 119
+First Ion Energy(kj/mol): 762
+Atomic Radius(pm): 125
+Atomic Number: 32
+
+As
+Element Name: Arsenic
+Series: Metalloids
+Group: 15
+Row: 4
+Atomic Mass(amu): 74.922
+Energy Levels: 2,8,18,5
+Electronegativity: 2.18
+Melting Point(deg C): 816.9
+Boiling Point(deg C): 614
+Electron Affinity(kj/mol): 78
+First Ion Energy(kj/mol): 947.0
+Atomic Radius(pm): 114
+Atomic Number: 33
+
+Se
+Element Name: Selenium
+Series: Reactive nonmetals
+Group: 16
+Row: 4
+Atomic Mass(amu): 78.971
+Energy Levels: 2,8,18,6
+Electronegativity: 2.55
+Melting Point(deg C): 221
+Boiling Point(deg C): 685
+Electron Affinity(kj/mol): 195
+First Ion Energy(kj/mol): 941.0
+Atomic Radius(pm): 103
+Atomic Number: 34
+
+Br
+Element Name: Bromine
+Series: Reactive nonemtals
+Group: 17
+Row: 4
+Atomic Mass(amu): 79.904
+Energy Levels: 2,8,18,7
+Electronegativity: 2.96
+Melting Point(deg C): -7.350
+Boiling Point(deg C): 58.9
+Electron Affinity(kj/mol): 324.6
+First Ion Energy(kj/mol): 1139.9
+Atomic Radius(pm): 94
+Atomic Number: 35
+
+Kr
+Element Name: Krypton
+Series: Noble Gases
+Group: 18
+Row: 4
+Atomic Mass(amu): 83.798
+Energy Levels: 2,8,18,8
+Electronegativity: 3.0
+Melting Point(deg C): -157.36
+Boiling Point(deg C): -153.22
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 1350.8
+Atomic Radius(pm): 88
+Atomic Number: 36
+
+Rb
+Element Name: Rubidium
+Series: Alkali Metals
+Group: 1
+Row: 5
+Atomic Mass(amu): 85.468
+Energy Levels: 2,8,18,8,1
+Electronegativity: 0.82
+Melting Point(deg C): 39.310
+Boiling Point(deg C): 688
+Electron Affinity(kj/mol): 46.9
+First Ion Energy(kj/mol): 403.0
+Atomic Radius(pm): 265
+Atomic Number: 37
+
+Sr
+Element Name: Strontium
+Series: Alkaline Earth Metals
+Group: 2
+Row: 5
+Atomic Mass(amu): 87.62
+Energy Levels: 2,8,18,8,2
+Electronegativity: 0.95
+Melting Point(deg C): 776.9
+Boiling Point(deg C): 1382
+Electron Affinity(kj/mol): 5.03
+First Ion Energy(kj/mol): 549.5
+Atomic Radius(pm): 219
+Atomic Number: 38
+
+Y
+Element Name: Yttrium
+Series: Transition Metals
+Group: 3
+Row: 5
+Atomic Mass(amu): 88.906
+Energy Levels: 2,8,18,9,2
+Electronegativity: 1.22
+Melting Point(deg C): 1562
+Boiling Point(deg C): 3345
+Electron Affinity(kj/mol): 29.6
+First Ion Energy(kj/mol): 600
+Atomic Radius(pm): 212
+Atomic Number: 39
+
+Zr
+Element Name: Zirconium
+Series: Transition Metals
+Group: 4
+Row: 5
+Atomic Mass(amu): 91.224
+Energy Levels: 2,8,18,10,2
+Electronegativity: 1.33
+Melting Point(deg C): 1855
+Boiling Point(deg C): 4409
+Electron Affinity(kj/mol): 41.1
+First Ion Energy(kj/mol): 640.1
+Atomic Radius(pm): 206
+Atomic Number: 40
+
+Nb
+Element Name: Niobium
+Series: Transition Metals
+Group: 5
+Row: 5
+Atomic Mass(amu): 92.906
+Energy Levels: 2,8,18,12,1
+Electronegativity: 1.6
+Melting Point(deg C): 2477
+Boiling Point(deg C): 4744
+Electron Affinity(kj/mol): 86.1
+First Ion Energy(kj/mol): 652.1
+Atomic Radius(pm): 198
+Atomic Number: 41
+
+Mo
+Element Name: Molybdenum
+Series: Transition Metals
+Group: 6
+Row: 5
+Atomic Mass(amu): 95.95
+Energy Levels: 2, 8, 18, 13, 1
+Electronegativity: 2.16
+Melting Point(deg C): 2623
+Boiling Point(deg C): 4639
+Electron Affinity(kj/mol): 71.9
+First Ion Energy(kj/mol): 684.3
+Atomic Radius(pm): 190
+Atomic Number: 42
+
+Tc
+Element Name: Technetium
+Series: Transition Metals
+Group: 7
+Row: 5
+Atomic Mass(amu): 98
+Energy Levels: 2, 8, 18, 13, 2
+Electronegativity: 1.9
+Melting Point(deg C): 2157
+Boiling Point(deg C): 4265
+Electron Affinity(kj/mol): 53
+First Ion Energy(kj/mol): 702
+Atomic Radius(pm): 183
+Atomic Number: 43
+
+Ru
+Element Name: Ruthenium
+Series: Transition Metals
+Group: 8
+Row: 5
+Atomic Mass(amu): 101.07
+Energy Levels: 2,8,18,15,1
+Electronegativity: 2.2
+Melting Point(deg C): 2334
+Boiling Point(deg C): 4150
+Electron Affinity(kj/mol): 101.3
+First Ion Energy(kj/mol): 710.2
+Atomic Radius(pm): 178
+Atomic Number: 44
+
+Rh
+Element Name: Rhodium
+Series: Transition Metals
+Group: 9
+Row: 5
+Atomic Mass(amu): 102.91
+Energy Levels: 2,8,18,16,1
+Electronegativity: 2.28
+Melting Point(deg C): 1964
+Boiling Point(deg C): 3695
+Electron Affinity(kj/mol): 109.7
+First Ion Energy(kj/mol): 719.7
+Atomic Radius(pm): 173
+Atomic Number: 45
+
+Pd
+Element Name: Palladium
+Series: Transition Metals
+Group: 10
+Row: 5
+Atomic Mass(amu): 106.42
+Energy Levels: 2,8,18,18
+Electronegativity: 2.20
+Melting Point(deg C): 1554.90
+Boiling Point(deg C): 2963
+Electron Affinity(kj/mol): 53.7
+First Ion Energy(kj/mol): 804.4
+Atomic Radius(pm): 169
+Atomic Number: 46
+
+Ag
+Element Name: Silver
+Series: Transition Metals
+Group: 11
+Row: 5
+Atomic Mass(amu): 107.87
+Energy Levels: 2,8,18,18,1
+Electronegativity: 1.93
+Melting Point(deg C): 961.780
+Boiling Point(deg C): 2162
+Electron Affinity(kj/mol): 125.6
+First Ion Energy(kj/mol): 731.0
+Atomic Radius(pm): 165
+Atomic Number: 47
+
+Cd
+Element Name: Cadmium
+Series: Transition Metals
+Group: 12
+Row: 5
+Atomic Mass(amu): 112.41
+Energy Levels: 2,8,18,18,2
+Electronegativity: 1.69
+Melting Point(deg C): 321.07
+Boiling Point(deg C): 766.9
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 867.8
+Atomic Radius(pm): 161
+Atomic Number: 48
+
+In
+Element Name: Indium
+Series: Post-transition Metals
+Group: 13
+Row: 5
+Atomic Mass(amu): 114.82
+Energy Levels: 2,8,18,18,3
+Electronegativity: 1.78
+Melting Point(deg C): 156.60
+Boiling Point(deg C): 2072
+Electron Affinity(kj/mol): 28.9
+First Ion Energy(kj/mol): 558.3
+Atomic Radius(pm): 156
+Atomic Number: 49
+
+Sn
+Element Name: Tin
+Series: Post-transition Metals
+Group: 14
+Row: 5
+Atomic Mass(amu): 118.71
+Energy Levels: 2,8,18,18,4
+Electronegativity: 1.96
+Melting Point(deg C): 231.93
+Boiling Point(deg C): 2602
+Electron Affinity(kj/mol): 107.3
+First Ion Energy(kj/mol): 708.6
+Atomic Radius(pm): 145
+Atomic Number: 50
+
+Sb
+Element Name: Antimony
+Series: Metalloids
+Group: 15
+Row: 5
+Atomic Mass(amu): 121.76
+Energy Levels: 2,8,18,18,5
+Electronegativity: 2.05
+Melting Point(deg C): 630.63
+Boiling Point(deg C): 1587
+Electron Affinity(kj/mol): 103.2
+First Ion Energy(kj/mol): 834
+Atomic Radius(pm): 133
+Atomic Number: 51
+
+Te
+Element Name: Tellurium
+Series: Metalloids
+Group: 16
+Row: 5
+Atomic Mass(amu): 127.60
+Energy Levels: 2,8,18,18,6
+Electronegativity: 2.1
+Melting Point(deg C): 449.51
+Boiling Point(deg C): 987.9
+Electron Affinity(kj/mol): 190.2
+First Ion Energy(kj/mol): 869.3
+Atomic Radius(pm): 123
+Atomic Number: 52
+
+I
+Element Name: Iodine
+Series: Reactive nonmetals
+Group: 17
+Row: 5
+Atomic Mass(amu): 126.90
+Energy Levels: 2,8,18,18,7
+Electronegativity: 2.66
+Melting Point(deg C): 113.70
+Boiling Point(deg C): 184.3
+Electron Affinity(kj/mol): 295.2
+First Ion Energy(kj/mol): 1008.4
+Atomic Radius(pm): 115
+Atomic Number: 53
+
+Xe
+Element Name: Xenon
+Series: Noble gases
+Group: 18
+Row: 5
+Atomic Mass(amu): 131.293
+Energy Levels: 2,8,18,18,8
+Electronegativity: 2.6
+Melting Point(deg C): -111.8
+Boiling Point(deg C): -108.0
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 1170.4
+Atomic Radius(pm): 108
+Atomic Number: 54
+
+Cs
+Element Name: Cesium
+Series: Alkali Metals
+Group: 1
+Row: 6
+Atomic Mass(amu): 132.91
+Energy Levels: 2,8,18,18,8,1
+Electronegativity: 0.79
+Melting Point(deg C): 28.440
+Boiling Point(deg C): 671
+Electron Affinity(kj/mol): 45.5
+First Ion Energy(kj/mol): 375.7
+Atomic Radius(pm): 298
+Atomic Number: 55
+
+Ba
+Element Name: Barium
+Series: Alkali Metals
+Group: 2
+Row: 6
+Atomic Mass(amu): 137.33
+Energy Levels: 2,8,18,18,8,2
+Electronegativity: 0.89
+Melting Point(deg C): 730
+Boiling Point(deg C): 1870
+Electron Affinity(kj/mol): 13.95
+First Ion Energy(kj/mol): 502.9
+Atomic Radius(pm): 253
+Atomic Number: 56
+
+La
+Element Name: Lanthanum
+Series:  Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 138.91
+Energy Levels: 2,8,18,18,9,2
+Electronegativity: 1.10
+Melting Point(deg C): 919.9
+Boiling Point(deg C): 3464
+Electron Affinity(kj/mol): 48
+First Ion Energy(kj/mol): 538.1
+Atomic Radius(pm): N/A
+Atomic Number: 57
+
+Ce
+Element Name: Cerium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 140.12
+Energy Levels: 2,8,18,19,9,2
+Electronegativity: 1.12
+Melting Point(deg C): 797.9
+Boiling Point(deg C): 3360
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 534.4
+Atomic Radius(pm): N/A
+Atomic Number: 58
+
+Pr
+Element Name: Praseodymium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 140.91
+Energy Levels: 2,8,18,21,8,2
+Electronegativity: 1.13
+Melting Point(deg C): 930.9
+Boiling Point(deg C): 3290
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 527
+Atomic Radius(pm): 247
+Atomic Number: 59
+
+Nd
+Element Name: Neodymium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 144.24
+Energy Levels: 2,8,18,22,8,2
+Electronegativity: 1.14
+Melting Point(deg C): 1021
+Boiling Point(deg C): 3100
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 5331.1
+Atomic Radius(pm): 206
+Atomic Number: 60
+
+Pm
+Element Name: Promethium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 145 (mass # of the isotope with the longest half-life)
+Energy Levels: 2,8,18,23,8,2
+Electronegativity: N/A
+Melting Point(deg C): 1100
+Boiling Point(deg C): 3000
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 540
+Atomic Radius(pm): 205
+Atomic Number: 61
+
+Sm
+Element Name: Samarium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 150.36
+Energy Levels: 2,8,18,24,8,2
+Electronegativity: 1.17
+Melting Point(deg C): 1072
+Boiling Point(deg C): 1803
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 544.5
+Atomic Radius(pm): 238
+Atomic Number: 62
+
+Eu
+Element Name: Europium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 151.96
+Energy Levels: 2,8,18,25,8,2
+Electronegativity: N/A
+Melting Point(deg C): 821.9
+Boiling Point(deg C): 1500
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 547.1
+Atomic Radius(pm): 231
+Atomic Number: 63
+
+Gd
+Element Name: Gadolinium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 157.25
+Energy Levels: 2,8,18,25,9,2
+Electronegativity: 1.20
+Melting Point(deg C): 1313
+Boiling Point(deg C): 3250
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 593.4
+Atomic Radius(pm): 233
+Atomic Number: 64
+
+Tb
+Element Name: Terbium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 158.93 
+Energy Levels: 2,8,18,27,8,2
+Electronegativity: N/A
+Melting Point(deg C): 1356
+Boiling Point(deg C): 3230
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 565.8
+Atomic Radius(pm): 225
+Atomic Number: 65
+
+Dy
+Element Name: Dysprosium
+Series: Lanthanoids
+Group: 6
+Row: 3
+Atomic Mass(amu): 162.50
+Energy Levels: 2,8,18,28,8,2
+Electronegativity: 1.22
+Melting Point(deg C): 1412
+Boiling Point(deg C): 2567
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 573.0
+Atomic Radius(pm): 228
+Atomic Number: 66
+
+Ho
+Element Name: Holmium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 164.93
+Energy Levels: 2,8,18,29,8,2
+Electronegativity: 1.23
+Melting Point(deg C): 1474
+Boiling Point(deg C): 2700
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 581.0
+Atomic Radius(pm): 226
+Atomic Number: 67
+
+Er
+Element Name: Erbium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 167.26
+Energy Levels: 2,8,18,30,8,2
+Electronegativity: 1.24
+Melting Point(deg C): 1497
+Boiling Point(deg C): 2868
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 589.3
+Atomic Radius(pm): 226
+Atomic Number: 68
+
+Tm
+Element Name: Thulium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 168.93
+Energy Levels: 2,8,18,31,8,2
+Electronegativity: 1.25
+Melting Point(deg C): 1545
+Boiling Point(deg C): 1950
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 596.7
+Atomic Radius(pm): 222
+Atomic Number: 69
+
+Yb
+Element Name: Ytterbium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 173.05
+Energy Levels: 2,8,18,32,8,2
+Electronegativity: N/A
+Melting Point(deg C): 816.9
+Boiling Point(deg C): 1196
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 603.4
+Atomic Radius(pm): 222
+Atomic Number: 70
+
+Lu
+Element Name: Lutetium
+Series: Lanthanoids
+Group: 3
+Row: 6
+Atomic Mass(amu): 174.97
+Energy Levels: 2,8,18,32,9,2
+Electronegativity: 1.27
+Melting Point(deg C): 1663
+Boiling Point(deg C): 3402
+Electron Affinity(kj/mol): 50
+First Ion Energy(kj/mol): 523.5
+Atomic Radius(pm): 217
+Atomic Number: 71
+
+Hf
+Element Name: Hafnium
+Series: Transition Metals
+Group: 4
+Row: 6
+Atomic Mass(amu): 178.49
+Energy Levels: 2,8,16,32,10,2
+Electronegativity: 1.3
+Melting Point(deg C): 2233
+Boiling Point(deg C): 4603
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 658.5
+Atomic Radius(pm): 208
+Atomic Number: 72
+
+Ta
+Element Name: Tantalum
+Series: Transition Metals
+Group: 5
+Row: 6
+Atomic Mass(amu): 180.95
+Energy Levels: 2,8,16,32,11,2
+Electronegativity: 1.5
+Melting Point(deg C): 3017
+Boiling Point(deg C): 5458
+Electron Affinity(kj/mol): 31
+First Ion Energy(kj/mol): 761
+Atomic Radius(pm): 200
+Atomic Number: 73
+
+W
+Element Name: Tungsten
+Series: Transition Metals
+Group: 6
+Row: 6
+Atomic Mass(amu): 183.84
+Energy Levels: 2,8,18,32,12,2
+Electronegativity: 2.36
+Melting Point(deg C): 3422
+Boiling Point(deg C): 5555
+Electron Affinity(kj/mol): 78.6
+First Ion Energy(kj/mol): 770
+Atomic Radius(pm): 193
+Atomic Number: 74
+
+Re
+Element Name: Rhenium
+Series: Transition Metals
+Group: 7
+Row: 6
+Atomic Mass(amu): 186.21
+Energy Levels: 2,8,16,32,13,2
+Electronegativity: 1.9
+Melting Point(deg C): 3186
+Boiling Point(deg C): 5596
+Electron Affinity(kj/mol): 14.5
+First Ion Energy(kj/mol): 760
+Atomic Radius(pm): 188
+Atomic Number: 75
+
+Os
+Element Name: Osmium
+Series: Transition Metals
+Group: 8
+Row: 6
+Atomic Mass(amu): 190.23
+Energy Levels: 2,8,18,32,14,2
+Electronegativity: 2.2
+Melting Point(deg C): 3033
+Boiling Point(deg C): 5012
+Electron Affinity(kj/mol): 106.1
+First Ion Energy(kj/mol): 840
+Atomic Radius(pm): 185
+Atomic Number: 76
+
+Ir
+Element Name: Iridium
+Series: Transition Metals
+Group: 9
+Row: 6
+Atomic Mass(amu): 192.22
+Energy Levels: 2,8,18,32,15,2
+Electronegativity: 2.20
+Melting Point(deg C): 2466
+Boiling Point(deg C): 4428
+Electron Affinity(kj/mol): 151
+First Ion Energy(kj/mol): 880
+Atomic Radius(pm): 180
+Atomic Number: 77
+
+Pt
+Element Name: Platinum
+Series: Transition Metals
+Group: 10
+Row: 6
+Atomic Mass(amu): 195.08
+Energy Levels: 2,8,18,32,17,1
+Electronegativity: 2.28
+Melting Point(deg C): 1768.3
+Boiling Point(deg C): 3825
+Electron Affinity(kj/mol): 205.3
+First Ion Energy(kj/mol): 870
+Atomic Radius(pm): 177
+Atomic Number: 78
+
+Au
+Element Name: Gold
+Series: Transition Metals
+Group: 11
+Row: 6
+Atomic Mass(amu): 196.97
+Energy Levels: 2,8,18,32,18,1
+Electronegativity: 2.54
+Melting Point(deg C): 1064.18
+Boiling Point(deg C): 2856
+Electron Affinity(kj/mol): 222.8
+First Ion Energy(kj/mol): 890.1
+Atomic Radius(pm): 174
+Atomic Number: 79
+
+Hg
+Element Name: Mercury
+Series: Transition Metals
+Group: 12
+Row: 6
+Atomic Mass(amu): 200.59
+Energy Levels: 2,8,18,32,18,2
+Electronegativity: 2.0
+Melting Point(deg C): -38.830
+Boiling Point(deg C): 356.73
+Electron Affinity(kj/mol): 0
+First Ion Energy(kj/mol): 1007.1
+Atomic Radius(pm): 171
+Atomic Number: 80
+
+Tl
+Element Name: Thallium
+Series: Post-transition metals
+Group: 13
+Row: 6
+Atomic Mass(amu): 204.38
+Energy Levels: 2,8,18,32,18,3
+Electronegativity: 1.62
+Melting Point(deg C): 304
+Boiling Point(deg C): 1473
+Electron Affinity(kj/mol): 19.2
+First Ion Energy(kj/mol): 589.4
+Atomic Radius(pm): 156
+Atomic Number: 81
+
+Pb
+Element Name: Lead
+Series: Post-transition metals
+Group: 14
+Row: 6
+Atomic Mass(amu): 207.2
+Energy Levels: 2,8,18,32,18,4
+Electronegativity: 2.33
+Melting Point(deg C): 327.46
+Boiling Point(deg C): 1749
+Electron Affinity(kj/mol): 35.1
+First Ion Energy(kj/mol): 715.6
+Atomic Radius(pm): 154
+Atomic Number: 82
+
+Bi
+Element Name: Bismuth
+Series: Post-transition metals
+Group: 15
+Row: 6
+Atomic Mass(amu): 208.98
+Energy Levels: 2,8,18,32,18,5
+Electronegativity: 2.02
+Melting Point(deg C): 271.3
+Boiling Point(deg C): 1564
+Electron Affinity(kj/mol): 91.2
+First Ion Energy(kj/mol): 703
+Atomic Radius(pm): 143
+Atomic Number: 83
+
+Po
+Element Name: Polonium
+Series: Post-transituon metals
+Group: 
+Row: 
+Atomic Mass(amu): 
+Energy Levels: 
+Electronegativity: 
+Melting Point(deg C): 
+Boiling Point(deg C): 
+Electron Affinity(kj/mol): 
+First Ion Energy(kj/mol): 
+Atomic Radius(pm): 
+Atomic Number: 
 
 @

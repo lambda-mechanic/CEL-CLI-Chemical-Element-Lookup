@@ -1,4 +1,4 @@
-# MIT Open License, 2021
+# MIT Open License, 2022
 # Creator: Liam Chiasson, Github: @liamchiasson
 
 # CHEM ELEMENT LOOKUP (CLI For Bash)
@@ -6,29 +6,33 @@ import os
 
 currentDir = os.path.dirname(os.path.abspath(__file__))
 filePath = os.path.join(currentDir, "elements.txt")
-input = "dw He" # user input variable
 stringParts = ["", ""] #list will contain command and specified chemical element as list elements
 line = ""
+programClosed = False
+userCommand = ""
 
 def errorMessage():
-    print("Error: command not found.\nPlease enter the case-sensitive command as follows: command Element")
-    print("Example: mass He")
+    print("Error: command not found.\nPlease enter the case-sensitive command as follows: command Element\nOr: Element")
+    print("Example 1: mass He")
+    print("Example 2: He")
 
-def getInfo(specifiedElement):
+# FOR ALL PROPERTIES OF ONE ELEMENT
+def getInfo(specifiedElement): 
     f = open(filePath, "r")
 
     while(f.closed != True):
         line = f.readline().strip("\n")
         if(line == specifiedElement):
             print(line) # print specified element when located
-            for x in range(13): 
+            for x in range(13): # print all 13 lines of info for specified element
                 print(f.readline().strip("\n"))
             f.close()
-
         elif(line == "@"):
             errorMessage()
+            print("WE GOT HERE") # DIDNT SHOW
             f.close()
 
+# FOR ONE PROPERTY OF ONE ELEMENT
 def readAttribute(attrStr, f):
     charHolder = ""
     while(charHolder != "\n"): # check when line is finished
@@ -37,7 +41,7 @@ def readAttribute(attrStr, f):
             attrStr += charHolder
     print(attrStr)
     f.close()
-    
+# FOR ONE PROPERTY OF ONE ELEMENT
 def getAttribute(attr, element):
     attrStr = ""
     f = open(filePath, "r")
@@ -88,14 +92,17 @@ def getAttribute(attr, element):
 
 def parseString(string):
     counter = 0
+    spaceTrue = False
     for x in string:
         if x == " ":
+            spaceTrue = True
             stringParts[0] = string[:counter] # set zeroeth index as command
             stringParts[1] = string[counter+1:] # set first index as element
         counter += 1
-
-    if(stringParts[0] == "" and stringParts[1] == ""): # in case of no command selected, leave command empty
-        stringParts[1] = string 
+    if(string == ""): # in case of empty input, display error message
+       errorMessage()
+    elif(spaceTrue == False): # Otherwise, if the original input contained no space character, then set stringParts[1] to string
+        stringParts[1] = string
 
 
 def commandChecker(command):
@@ -106,5 +113,35 @@ def commandChecker(command):
     else:
         getAttribute(stringParts[0], stringParts[1])
 
-# get input via terminal here
-commandChecker(input) # send command to be parsed and checked in order to selet output
+print("Welcome to CEL-CLI!\nFor all available properties, simply enter a chemical's symbol (ie 'He').\nOtherwise, specify the property and the element(ie 'group He')\nFor a list of commands, please type 'commands'\n")
+while(programClosed == False):
+    # get input via terminal here
+    userCommand = input()
+    if(userCommand == "commands"):
+        print("""CEL-CLI COMMANDS:
+        name Element: displays element name 
+        series Element: displays series of element (i.e. transition metals)
+        group Element: displays group of element
+        row Element: displays row of element
+        mass Element: displays mass of element in atomic mass units
+        levels Element: displays the energy levels of the element's electrons
+        neg Element: displays the electronegativity of the element
+        melt Element: displays the melting point of the element in degrees celsius
+        boil Element: displays the boiling point of the element in degrees celsius
+        affinity Element: displays electron affinity of element in kj/mol
+        fion Element: displays the first ionization energy of the element in kj/mol
+        rad Element: displays the atomic radius of the element in picometers
+        num Element: displays the atomic number of the element
+        """)
+    else:
+        commandChecker(userCommand) # send command to be parsed and checked in order to select output
+    print("Would you like to close the program? (y/n): ")
+    userCommand = input()
+    if(userCommand == "y"):
+        programClosed = True
+    elif (userCommand == "n"):
+        userCommand = ""
+        stringParts = ["", ""]
+        line = ""
+        print("Enter another chemical element and optional command: ")
+        #start again
