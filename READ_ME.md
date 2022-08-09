@@ -52,13 +52,6 @@ cel-cli
         num Au = print out gold atomic number
 
         
-
-        
-
-        
-
-        melt Au = print melting point of element
-
         --------------------------------------------------------------------------------------
         # Not Added Yet:
         series am, aem, lant, act, trm, ptm, met, rnm, ng = list all the elements in a series
