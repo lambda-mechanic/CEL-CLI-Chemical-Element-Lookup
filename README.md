@@ -22,7 +22,7 @@ cel-cli
 - Print all preoperties for any element in the terminal
 - Print one property of any element at a time (like atomic mass for gold)
 # Future Features
-I might incorporate Typer (https://typer.tiangolo.com/)
+- I might incorporate Typer (https://typer.tiangolo.com/)
 
 - Print list of all elements
 - Print list of all elements in any given series (like a list of the Alkaline Earth Metals)
