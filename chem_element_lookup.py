@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # MIT Open License, 2022
 # Creator: Liam Chiasson, Github: @liamchiasson
 
@@ -29,7 +30,6 @@ def getInfo(specifiedElement):
             f.close()
         elif(line == "@"):
             errorMessage()
-            print("WE GOT HERE") # DIDNT SHOW
             f.close()
 
 # FOR ONE PROPERTY OF ONE ELEMENT
