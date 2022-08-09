@@ -1,4 +1,4 @@
-PROJECT: Chemistry Element Reference (CER)
+PROJECT: Chemistry Element Lookup (CEL)
 DESCRIPTION: Allows users to reference the chemical elements and their properties from a linux terminal
 
 # Installation Instructions
