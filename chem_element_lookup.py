@@ -13,7 +13,7 @@ programClosed = False
 userCommand = ""
 
 def errorMessage():
-    print("Error: command not found.\nPlease enter the case-sensitive command as follows: command Element\nOr: Element")
+    print("\nError: command not found.\nPlease enter the case-sensitive command as follows: command Element\nOr: Element")
     print("Example 1: mass He")
     print("Example 2: He")
 
@@ -70,7 +70,7 @@ def getAttribute(attr, element):
                     readAttribute(attrStr, f)
                 elif(attrStr == "Atomic Mass(amu): " and attr == "mass"):
                     readAttribute(attrStr, f)
-                elif(attrStr == "Energy Levels: " and attr == "levels"):
+                elif(attrStr == "Energy Levels: " and attr == "energy"):
                     readAttribute(attrStr, f)
                 elif(attrStr == "Electronegativity: " and attr == "neg"):
                     readAttribute(attrStr, f)

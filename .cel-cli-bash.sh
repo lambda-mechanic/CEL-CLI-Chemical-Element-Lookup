@@ -1,6 +1,6 @@
 #!/home/usr/CEL
 
-# prints the input
+# calls python script
 function cel-cli() {
   python ~/CEL/chem_element_lookup.py
 }
