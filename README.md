@@ -19,7 +19,7 @@ After following the instruction installations, simply type the following command
 cel-cli
 
 # Current Features:
-- Print all preoperties for any element in the terminal
+- Print all properties for any element in the terminal
 - Print one property of any element at a time (like atomic mass for gold)
 # Future Features
 - I might incorporate Typer (https://typer.tiangolo.com/)
