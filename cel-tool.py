@@ -1,4 +1,4 @@
 # Use this script to grab sets of info from element.txt.
 # This is not designed to be actively used in conjunction with cel-cli. It is designed to grab sets of info from a particular version of elements.txt for the purpose of improving a version of cel-cli.
 # For instance, in order to add series_sets.txt, I used this tool on elements.txt and configured it to grab info at the regular intervals of information specific to the version of elements.txt I used...
-#....When I add more attributes for each element, this script will have to be retooled to grab info from the new version of elements.txt, because the set of info I want to grab will appear at different intervals.
+#....When I add more attributes for each element, this script will have to be retooled to grab info from the new version of elements.txt, because the set of info I want to grab will appear at different intervals

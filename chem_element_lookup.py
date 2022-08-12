@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-
 # MIT Open License, 2022
 # Creator: Liam Chiasson, Github: @liamchiasson
 # CHEM ELEMENT LOOKUP (CLI For Bash)
+
 import os
 
 currentDir = os.path.dirname(os.path.abspath(__file__))

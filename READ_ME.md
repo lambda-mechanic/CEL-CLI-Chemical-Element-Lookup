@@ -19,14 +19,21 @@ After following the instruction installations, simply type the following command
 cel-cli
 
 # Current Features:
-- Print all preoperties for any element in the terminal
+- Print all properties for any element in the terminal
 - Print one property of any element at a time (like atomic mass for gold)
 # Future Features
+- I might incorporate Typer (https://typer.tiangolo.com/)
+
 - Print list of all elements
 - Print list of all elements in any given series (like a list of the Alkaline Earth Metals)
 - Print list of all elements in a row
 - Print list of all elements in a group
 
+- Add heat capacity
+- Add electron shells/configurations
+- Add common polyatomic ions and their properties
+- Add critical points and triple points
+- Add state at room temperature
         
 # Program Commands (Replace Au with any element's symbol):
        ---------------------------------------------------------------------------------------
