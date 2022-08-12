@@ -1,14 +1,14 @@
 #!/usr/bin/python3
+
 # MIT Open License, 2022
 # Creator: Liam Chiasson, Github: @liamchiasson
-
 # CHEM ELEMENT LOOKUP (CLI For Bash)
 import os
 
 currentDir = os.path.dirname(os.path.abspath(__file__))
 filePath = os.path.join(currentDir, "elements.txt")
 stringParts = ["", ""] #list will contain command and specified chemical element as list elements
-line = ""
+line = "" # buffer to store each line that the program reads from elements.txt
 programClosed = False
 userCommand = ""
 
@@ -20,7 +20,6 @@ def errorMessage():
 # FOR ALL PROPERTIES OF ONE ELEMENT
 def getInfo(specifiedElement): 
     f = open(filePath, "r")
-
     while(f.closed != True):
         line = f.readline().strip("\n")
         if(line == specifiedElement):
@@ -45,7 +44,6 @@ def readAttribute(attrStr, f):
 def getAttribute(attr, element):
     attrStr = ""
     f = open(filePath, "r")
-
     while(f.closed != True):
         line = f.readline().strip("\n")
         if(line == element): # SKIP TO ELEMENT
@@ -104,16 +102,16 @@ def parseString(string):
     elif(spaceTrue == False): # Otherwise, if the original input contained no space character, then set stringParts[1] to string
         stringParts[1] = string
 
-
 def commandChecker(command):
     parseString(command) # parse command to separate attribute from element
 
+    # ADD THIRD OPTION: what if I want to print a list of all the elements in a particular series? Need a more general command check that accounts for commands that dont include an element
     if(stringParts[0] == ""): # in case of empty command, print all properties of selected element
         getInfo(stringParts[1])
     else:
         getAttribute(stringParts[0], stringParts[1])
 
-print("Welcome to CEL-CLI!\nFor all available properties, simply enter a chemical's symbol (ie 'He').\nOtherwise, specify the property and the element(ie 'group He')\nFor a list of commands, please type 'commands'\n")
+print("CEL-CLI: For all available properties, enter a chemical's symbol (ie 'He').\nOtherwise, specify the property and the element(ie 'group He')\nFor a list of commands, please type 'commands'")
 while(programClosed == False):
     # get input via terminal here
     userCommand = input()
@@ -135,11 +133,9 @@ while(programClosed == False):
         """)
     else:
         commandChecker(userCommand) # send command to be parsed and checked in order to select output
-    print("Would you like to close the program? (y/n): ")
-    userCommand = input()
-    if(userCommand == "y"):
+    if(input("Would you like to close the program? (y/n): ") == "y"):
         programClosed = True
-    elif (userCommand == "n"):
+    else:
         userCommand = ""
         stringParts = ["", ""]
         line = ""
