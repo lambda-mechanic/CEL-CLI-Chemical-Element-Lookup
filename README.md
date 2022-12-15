@@ -15,7 +15,7 @@ Periodic Table Source: https://ptable.com/?lang=en#Properties
 (4) Save the .bashrc or .zshrc file. This line of code makes it so that the content of the cel-cli-bash.sh file is run every time you open your terminal
 
 # How to Start the Program
-After following the instruction installations, simply type the following command into your terminal from any location in your file system:
+After following the installation instructions, simply type the following command into your terminal from any location in your file system:
 cel-cli
 
 # Current Features:
