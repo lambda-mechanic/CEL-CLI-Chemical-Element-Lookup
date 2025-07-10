@@ -1,6 +1,6 @@
 MIT Open License, 2022
 
-Creator: River
+Creator: Liam
 
 Periodic Table Source: https://ptable.com/?lang=en#Properties
 # CHEM ELEMENT LOOKUP: v0.1 (CLI For Bash)
